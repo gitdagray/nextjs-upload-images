@@ -1,34 +1,50 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# "Next.js: Upload Images to a Server"
 
-## Getting Started
+---
 
-First, run the development server:
+### Author Links
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+👋 Hello, I'm Dave Gray.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+👉 [My Courses](https://courses.davegray.codes/)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+✅ [Check out my YouTube Channel with hundreds of tutorials](https://www.youtube.com/DaveGrayTeachesCode).
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+🚩 [Subscribe to my channel](https://bit.ly/3nGHmNn)
 
-## Learn More
+☕ [Buy Me A Coffee](https://buymeacoffee.com/DaveGray)
 
-To learn more about Next.js, take a look at the following resources:
+🚀 Follow Me:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- [Twitter](https://twitter.com/yesdavidgray)
+- [LinkedIn](https://www.linkedin.com/in/davidagray/)
+- [Blog](https://yesdavidgray.com)
+- [Reddit](https://www.reddit.com/user/DaveOnEleven)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+### Description
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+📺 [YouTube Video](https://youtu.be/OyxDGWgNJMc) for this repository.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+### 📚 Recommended Prerequisites
+- 🔗 [Next.js 13 for Beginners](https://youtu.be/843nec-IvW0)
+
+---
+
+### 🎓 Academic Honesty
+
+**DO NOT COPY FOR AN ASSIGNMENT** - Avoid plagiarism and adhere to the spirit of this [Academic Honesty Policy](https://www.freecodecamp.org/news/academic-honesty-policy/).
+
+---
+
+### ⚙ Free Web Dev Tools
+- 🔗 [Google Chrome Web Browser](https://google.com/chrome/)
+- 🔗 [Visual Studio Code (aka VS Code)](https://code.visualstudio.com/)
+- 🔗 [ES7 React Snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
+
+### 📚 References
+- 🔗 [Next.js Official Site](https://nextjs.org/)
+- 🔗 [UploadThing Docs](https://docs.uploadthing.com/)
+
